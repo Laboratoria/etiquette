@@ -1,6 +1,8 @@
-# Etiquette for digital `Laboratorians`
+# Digital Etiquette for Laboratorians
 
-> Etiquette (/ˈɛtᵻˌkɛt/ or /ˈɛtᵻkᵻt/, French: [e.ti.kɛt]) is a code of behavior that delineates expectations for social behavior according to contemporary conventional norms within a society, social class, or group.
+> Etiquette (/ˈɛtᵻˌkɛt/ or /ˈɛtᵻkᵻt/, French: [e.ti.kɛt]) is a code of behavior
+> that delineates expectations for social behavior according to contemporary
+> conventional norms within a society, social class, or group.
 >
 > Source: [Wikipedia](https://en.wikipedia.org/wiki/Etiquette)
 
@@ -171,9 +173,18 @@ Email is old school, but it still has a place.
 
 ### [Forum](http://community.laboratoria.la/)
 
+We host a discourse forum at [community.laboratoria.la](http://community.laboratoria.la/),
+aimed both at hosting staff discussions and having a space dedicated to web
+development questions/answers, lead and nurtured by our Developers Chapter, and
+open to all staff, students, alumni, mentors, contributors, employers and public
+in general.
+
+* Do not post private or confidential data in public categories
+* Use mentions to draw specific users to a thread
+* Do not abuse mentions
 * Search before you ask
-* When asking questions, always provide context
 * Read before you post or reply
+* Always provide context
 * Be kind and welcoming
 * Celebrate contribution
 * Always be transparent
@@ -181,18 +192,23 @@ Email is old school, but it still has a place.
 
 ### [GitHub](https://github.com/Laboratoria)
 
-* Always create a `.gitignore` file when you create a new repo.
+* [Tell the world you are a team member](https://help.github.com/articles/publicizing-or-hiding-organization-membership/)
+* Always create a [`.gitignore`](https://git-scm.com/docs/gitignore) file when
+  you create a new repo.
 * Always create a `README.md` file when you create a new repo.
 * Write commit messages starting with a verb in 3rd person present tense
   describing what the change set does (it "fixes something...", "adds
   something").
-* Add references to issues in commit messages, other issues and pull requests.
-* Use `Closes #n` to have issues automatically closed on push.
+* Add [references to issues, commit messages and pull requests](https://help.github.com/articles/autolinked-references-and-urls/) in
+  other issues, commit messages and pull requests.
+* Use `Closes #n` to have issues automatically closed on push/merge.
 * Use multiline commit messages when appropriate.
 * Use markdown profusely.
 * Always provide context when reporting _issues_.
 
-### [Medium](https://medium.com/laboratoria-how-to)
+### Medium
+
+Publications: [Laboratoria](https://medium.com/laboratoria), [Laboratoria Developers](https://medium.com/laboratoria-how-to).
 
 * Ask for peer review
 * Review others
