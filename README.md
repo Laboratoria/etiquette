@@ -77,6 +77,7 @@ a forum message, ...), we follow these conventions:
 * Use 2 spaces for indentation
 * Avoid trailing whitespace
 * Include blank line at the end of file
+* Keep line length under 80 characters
 
 This is how our standard [`.editorconfig`](https://editorconfig.org/) looks
 like:
