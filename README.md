@@ -124,12 +124,12 @@ When writing, always keep these in mind:
   colleagues, contributors, students, alumni, employers, ... the best options
   could be a group message, forum thread or blog post).
 * Is it a transient conversation or does it need to survive over time? If you
-  expect (or want) the conversation to be searchable and available in the future
-  silos like chats are not appropriate, use a forum or GitHub repo (issues,
-  ...).
+  expect (or want) the conversation to be searchable and available in the
+  future, silos like chats are not appropriate; use a forum or GitHub repo
+  (issues, ...).
 * Does it start a discussion? If you intend to start a discussion, be inclusive
-  and use open channels so that other can _join_ the conversation, _see_ what is
-  happening and _refer_ to it in future discussions.
+  and use open channels so that others can _join_ the conversation, _see_ what
+  is happening and _refer_ to it in future discussions.
 
 ### [Slack](https://laboratoriala.slack.com/messages/C7TE6F4G7/)
 
@@ -175,9 +175,9 @@ Email is old school, but it still has a place.
 
 We host a discourse forum at [community.laboratoria.la](http://community.laboratoria.la/),
 aimed both at hosting staff discussions and having a space dedicated to web
-development questions/answers, lead and nurtured by our Developers Chapter, and
-open to all staff, students, alumni, mentors, contributors, employers and public
-in general.
+development questions/answers, cared for and nurtured by our Developers Chapter.
+This forum is open to all staff, students, alumni, mentors, contributors,
+employers and public in general.
 
 * Do not post private or confidential data in public categories
 * Use mentions to draw specific users to a thread
@@ -217,6 +217,10 @@ Publications: [Laboratoria](https://medium.com/laboratoria), [Laboratoria Develo
 * Aim for literary value: you are telling a story
 
 ### [Bamboo](https://laboratoria.bamboohr.com/home)
+
+[ wip ]
+
+### Google Drive
 
 [ wip ]
 
