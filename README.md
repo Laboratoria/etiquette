@@ -72,7 +72,7 @@ writing down our thoughts, proposals, arguments, explanations, ...
 When writing plain text (be it a markdown document, code, an issue, a blog post,
 a forum message, ...), we follow these conventions:
 
-* Use `ut8` charset
+* Use `utf8` charset
 * Use spaces instead of tabs
 * Use 2 spaces for indentation
 * Avoid trailing whitespace
