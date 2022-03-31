@@ -172,26 +172,6 @@ Email is old school, but it still has a place.
 
 [ wip ]: Google Hangouts, Zoom, Slack, Skype?
 
-### [Forum](http://community.laboratoria.la/)
-
-We host a discourse forum at [community.laboratoria.la](http://community.laboratoria.la/),
-aimed both at hosting staff discussions and having a space dedicated to web
-development questions/answers, cared for and nurtured by our
-[Developers Chapter](http://developers.laboratoria.la/). This forum is open to
-all staff, students, alumni, mentors, contributors, employers and public in
-general.
-
-* Do not post private or confidential data in public categories
-* Use mentions to draw specific users to a thread
-* Do not abuse mentions
-* Search before you ask
-* Read before you post or reply
-* Always provide context
-* Be kind and welcoming
-* Celebrate contribution
-* Always be transparent
-* Be critical of ideas, not people
-
 ### [GitHub](https://github.com/Laboratoria)
 
 * [Tell the world you are a team member](https://help.github.com/articles/publicizing-or-hiding-organization-membership/)
